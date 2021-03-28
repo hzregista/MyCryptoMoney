@@ -1,0 +1,16 @@
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.exe
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.deps.json
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.runtimeconfig.json
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.runtimeconfig.dev.json
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.dll
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\BlockchainProject.pdb
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.csprojAssemblyReference.cache
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.AssemblyInfoInputs.cache
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.AssemblyInfo.cs
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.csproj.CoreCompileInputs.cache
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.dll
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.pdb
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.genruntimeconfig.cache
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\obj\Debug\netcoreapp3.1\BlockchainProject.csproj.CopyComplete
+C:\Users\onuru\source\repos\Blockchain\BlockchainProject\bin\Debug\netcoreapp3.1\websocket-sharp.dll
